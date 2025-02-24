@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120§ion=header"/>
-
 # 🧑🏻‍💻 Diego Araújo Teixeira
 
 **`Desenvolvedor em Formação | Estudante de Sistemas de Informação`**
