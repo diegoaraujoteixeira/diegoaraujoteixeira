@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120§ion=header"/>
-# 🧑🏻‍💻 Diego Araújo Teixeira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120&section=header"/>
+
+🧑🏻‍💻 Diego Araújo Teixeira
 
 **`Desenvolvedor em Formação | Estudante de Sistemas de Informação`**
 
@@ -32,4 +33,5 @@ Atualmente, curso Sistemas de Informação e estou no 4º período, desenvolvend
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120§ion=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d5b8f&height=120&section=footer"/>
+
